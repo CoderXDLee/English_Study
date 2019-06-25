@@ -131,12 +131,6 @@ M: Bye!`
 
 ### Key Vocabulary:
 
-`1. still working on    Phase.      not yet completed, need more time  
-2. suggest             Verb.       would recommend  
-3. complimentary       Adjective.  free   
-4. go with             Phase.      to choose, pick  
-5. grab                Verb.       to get quickly`
-
 <table>
   <thead>
     <tr>
@@ -156,7 +150,7 @@ M: Bye!`
       <td style="text-align:left">1</td>
       <td style="text-align:left"><code>still working on</code>
       </td>
-      <td style="text-align:left"><code>Phase</code>
+      <td style="text-align:left"><code>Phrase</code>
       </td>
       <td style="text-align:left"><code>not yet completed, need more time</code>
       </td>
@@ -192,7 +186,7 @@ M: Bye!`
       <td style="text-align:left">4</td>
       <td style="text-align:left"><code>go with</code>
       </td>
-      <td style="text-align:left"><code>Phase</code>
+      <td style="text-align:left"><code>Phrase</code>
       </td>
       <td style="text-align:left"><code>to choose, pick</code>
       </td>
@@ -214,7 +208,7 @@ M: Bye!`
 </table>### Supplementary Vocabulary:
 
 `1. waitress            Noun.       female server at a restaurant or bar  
-2. fast food           Phase.      food prepared and served quickly  
+2. fast food           Phrase.     food prepared and served quickly  
 3. impatient           Adjective.  uncomfortable waiting, wanting to go  
 4. fancy               Adjective.  nice, expensive, up-scale  
 5. casual              Adjective.  relaxed, not dressy`

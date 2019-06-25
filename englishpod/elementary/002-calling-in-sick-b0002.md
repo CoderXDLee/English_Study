@@ -11,7 +11,7 @@ A: Hi, Julie, how are you?
 B: Actually, I’m feeling quite ill today.  
    事实上，我今天感觉很不舒服。  
 A: I’m sorry to hear that. What’s wrong?  
-   听到这我很难过。你怎么样  
+   听到这我很难过。你怎么样?  
 B: I think I’m coming down with the flu. I have a headache, a sore throat a runny nose and I’m feeling slightly feverish.  
    我想我得了流感。头痛，喉咙痛，流鼻涕并且感觉轻微发烧了。  
 A: I see... so you’re calling in sick?  
@@ -59,7 +59,7 @@ M: So, the flu is a virus.
 E: Yeah, it's a sickness.  
 M: Okay, and, uh...  
 E: Uhu.  
-M: It's very similar to a code.  
+M: It's very similar to a cold.  
 E: Yes, but just a lot worse.  
 M: A lot worse, so, it's stronger.  
 E: Yeah, yeah. Um, it's also called influenza.  
@@ -69,7 +69,7 @@ M: Exactly. So, the flu.
 E: Uhu.  
 M: Okay, so, let's listen to our dialogue. What's gonna happen here today?  
 E: Well, we're going to listen as Julie calls her boss to tell him she's sick.  
-M: Allrifht, but is she really sick?  
+M: Alright, but is she really sick?  
 E: I don't know. Let's find out.  
   
 DIALOGUE, FIRST TIME  
@@ -151,7 +151,7 @@ E: Um, so, when you're...when your body is very, very hot...
 M: Right.  
 E: Because you're sick. So, feverish is the feeling or your body being very, very hot.  
 M: Uhu. Okay, so, you have a high temperature.  
-E: It's not that you have a hign temperature, but you feel like you have a high temerature.  
+E: It's not that you have a high temperature, but you feel like you have a high temperature.  
 M: Okay, so, slightly feverish.  
 E: Uhu.  
 M: And our last word - to recoever.  
@@ -166,7 +166,7 @@ M: Okay, so, yeah, if you feel tired...
 E: Yeah.  
 M: Or you feel sick, you can recover.  
 E: Uhu.  
-M: Okay, let's listen to our dialogue again and we c an listen to these words that we've just talked about.  
+M: Okay, let's listen to our dialogue again and we can listen to these words that we've just talked about.  
   
 DIALOGUE, SECOND TIME  
   
@@ -231,7 +231,7 @@ M: Hehe. Alright, so, take the day off means to not go to work on that day.
 E: Uhu.  
 M: Alright, let's listen to our dialogue again now and then we'll come back and talk a little bit more.  
   
-DIALOGUE< THIRD TIME  
+DIALOGUE, THIRD TIME  
 E: Well, Marco, um, have you ever done what Julie did? Did you ever call you boss to say you're sick to... when you're not really?  
 M: Yeah, of course! I mean, sometimes you just don't feel very well, but you're not really sick, you just don't feel like going to work.  
 E: Yes.  
@@ -259,9 +259,108 @@ M: Alright, so, well, if you have any questions or comments, please come to our 
 E: Yes, you can visit us at englishpod.com and Marco and I are always there to answer your questions.  
 M: Alright, folks, so, we'll see you next time.  
 E: Thank for listening, good bye!  
-M: Bye!`  
+M: Bye!`
+
+## 三、Review（回顾）
+
+### The EnglishPod Audio Radio
+
+### 1. Listen to the meaning, then say the vocabulary word
+
+`01. How may I help you  -> polite offer to help  
+02. quite ill           -> very sick  
+03. coming down         -> getting, acquiring  
+04. calling in sick     -> report that you'll not go to work, because you're sick  
+05. was hoping          -> to kindly expect    
+06. symptom             -> a sign, indication   
+07. permission          -> allow  
+08. impolite            -> rude  
+09. sick day            -> day off because you're sick  
+10. make it into work   -> go to work`
+
+### 2. Now say the word，then hear the sentences
+
+`1. May I help you  
+   A: Sir, you look lost, may I Help you?  
+   B: May I help you find something?  
+   C: I was wondering may I help you prepare your report.  
   
+2. quite ill  
+   A: I'm feeling quite ill today. I don't I can go to work.  
+   B: Andy can't get out of the bed today. He must be quite ill.  
+   C: The lesson is canceled because the teacher is quite ill.  
+  
+3. coming down  
+   A: You have a runny nose. Are you coming down with the flu?  
+   B: I can feel I'm coming down with the flu.  
+   C: My throat hurts. I hope I'm not coming down with the flu.  
+  
+4. calling in sick  
+   A: Our meeting was postponed(推迟，延期) because our client called in sick.  
+   B: If he calls in sick one more time, we'll fire him.  
+   C: I almost called in sick today.  
+  
+5. was hoping  
+   A: We're hoping to meet with you after lunch.  
+   B: I was hoping to borrow your car this weekend.  
+   C: They were hoping to find you at the bus station.`
 
+## 四、学习笔记
 
+### 1. 词汇
 
+| 序号 | 词汇 | 发音 | 词性 | 注释 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | `flu` | `[fluː]` | `n.` | 流行性感冒;流感 |
+| 2 | `sore` | `[sɔː(r)]` | `adj.` | \(发炎\)疼痛的;酸痛的; |
+| 3 | `throat` | `[θrəʊt]` | `n.` | 咽喉;喉咙;颈前部; |
+| 4 | `runny` | `[ˈrʌni]` | `adj.` | 流鼻涕的;流眼泪的; |
+| 5 | `feverish` | `[ˈfiːvərɪʃ]` | `adj.` | 发烧的;发烧引起的 |
+| 6 | `gonna` | `[ˈɡənə]` | `v.` | 即将，将要\(非正式用语，即going to\) |
+| 7 | `lying` | `[ˈlaɪɪŋ]` | `v.` | 说谎; 撒谎; 编造谎言（lie的现在分词） |
+| 8 | `virus` | `[ˈvaɪrəs]` | `n.` | 病毒;滤过性病毒;病毒性疾病;病毒病;\(计算机程序中的\)病毒 |
+| 9 | `sickness` | `[ˈsɪknəs]` | `n.` | 疾病;不健康;…病;…症;恶心;呕吐 |
+| 10 | `influenza` | `[ˌɪnfluˈenzə]` | `n.` | 同 flu;流行性感冒;流感 |
+| 11 | `cough` | `[kɒf]` | `n.` | 咳嗽;咳嗽声;咳嗽病 |
+| 12 | `headache` | `[ˈhedeɪk]` | `n.` | 头痛;令人头痛的人\(或事物\);麻烦 |
+| 13 | `podcast` | `[ˈpɒdkɑːst]` | `n.` | 播客\(一种类似于广播节目的音频文件，可下载到计算机或MP3播放器收听\) |
+| 14 | `videocast` | `[ˈvɪdiəʊ kɑːst]` | `n.` | 视频广播;视客;多媒体视频广播;视频博客或维客;多媒体视频广播系统 |
+| 15 | stomach | `[ˈstʌmək]` | `n.` | 胃;腹部 |
+| 16 | `swallow` | `[ˈswɒləʊ]` | `v.` | 吞下; 咽下; \(由于紧张等\)做吞咽动作; 吞没; 淹没; 侵吞 |
+| 17 | `recover` | `[rɪˈkʌvə(r)]` | `v.` | 恢复健康; 康复; 痊愈; 复原; |
+| 18 | `fluency` | `[ˈfluːənsi]` | `n.` | \(尤指外语\)流利; 熟练自如; 流畅 |
+| 19 | `literally` | `[ˈlɪtərəli]` | `adv.` | 按字面;字面上; |
+| 20 | `soccer` | `[ˈsɒkə(r)]` | `n.` | 足球 |
+| 21 | `Brazil` | `[brəˈzɪl]` | `n.` | 巴西 |
+| 22 | `folks` | `[fəʊks]` | `n.` | 人们; 各位; 大伙儿; 亲属; 家属; \(尤指\)爹妈 |
+
+### 2. 短语
+
+| 序号 | 短语 | 注释 |
+| :--- | :--- | :--- |
+| 1 | `How may I help you?` | 我能为您做些什么吗？ |
+| 2 | `quite ill` | 病得很重 |
+| 3 | `be sorry to hear` | 听到这个消息很难过 |
+| 4 | `What’s wrong?` | 怎么了；出什么事了，发生什么事了 |
+| 5 | `coming down with the flu` | 感染了流感 |
+| 6 | `have a headache` | 头痛 |
+| 7 | `have a sore throat` | 喉咙痛 |
+| 8 | `have a runny nose` | 流鼻涕 |
+| 9 | `slightly feverish` | 轻微发烧 |
+| 10 | `calling in sick` | 请病假 |
+| 11 | `be hoping` | 希望 |
+| 12 | `take the day off` | 请了一天假 |
+| 13 | `get some rest` | 休息一下 |
+| 14 | `gonna` | 即将，将要\(非正式用语，即going to\) |
+| 15 | `get sick` | 生病 |
+| 16 | `sysonym of` | 同义词 |
+| 17 | `No difference at all` | 完全没有区别 |
+| 18 | `British English` | 英国英语 |
+| 19 | `be similar to` | 与...类似，类似于... |
+| 20 | `point at` | 指向 |
+| 21 | `play tennis` | 打网球 |
+| 22 | `feel like` | 摸起来像是……；有……的感觉;想要…… |
+| 23 | `personal days` | 个人工作日（购物等） |
+| 24 | `soccer match` | 足球比赛 |
+| 25 | `make it` | \(及时\)到达（尤指来得及做某事）;及时赶上参加;（经历艰难困苦后）成功 |
 
