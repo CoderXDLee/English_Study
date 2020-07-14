@@ -17,3 +17,8 @@
 
 * [Untitled](ted/untitled.md)
 
+## 走进世界名校系列
+
+* [走进哈佛大学](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/README.md)
+  * [01 - 清教徒和哈佛](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/01-qing-jiao-tu-he-ha-fo.md)
+

@@ -205,7 +205,9 @@ M: Bye!`
       </td>
     </tr>
   </tbody>
-</table>### Supplementary Vocabulary:
+</table>
+
+### Supplementary Vocabulary:
 
 `1. waitress            Noun.       female server at a restaurant or bar  
 2. fast food           Phrase.     food prepared and served quickly  
