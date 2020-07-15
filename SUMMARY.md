@@ -11,11 +11,17 @@
     * [003 - Daily Life - Hotel Upgrade（C0003）](englishpod/elementary/003-daily-life-hotel-upgrade-c0003.md)
     * [004 - The Office - I need an assistant!\(C0004\)](englishpod/elementary/004-the-office-i-need-an-assistant-c0004.md)
 
+## 英语演讲 <a id="ted"></a>
+
 ## 逻辑英语
 
-## TED
+* [TED](luo-ji-ying-yu/ted.md)
 
-* [Untitled](ted/untitled.md)
+## TED <a id="ted-1"></a>
+
+* [明明你很努力了，为什么没有收获](ted-1/ming-ming-ni-hen-nu-li-le-wei-shen-me-mei-you-shou-huo.md)
+* [Untitled](ted-1/untitled/README.md)
+  * [Untitled](ted-1/untitled/untitled-1.md)
 
 ## 走进世界名校系列
 
