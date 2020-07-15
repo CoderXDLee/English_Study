@@ -2,11 +2,13 @@
 
 ## `Puritans and Harvard`
 
+### `1 - 1 原文`
+
 `Puritans played a very important role in Harvard history as well as in American history.  
   
-In the 16th and 17th century, a series of religous reforms took place in England. Finally, the Church of England was established as the Established Church.  
+In the 16th and 17th century, a series of religious reforms took place in England. Finally, the Church of England was established as the Established Church.  
   
-People did not have religous freedom.  
+People did not have religious freedom.  
   
 Those people who did not agree with the Church of England were regarded as Separatists and were persecuted.  
   
@@ -43,4 +45,8 @@ The college followed the style of English universities as well.
 Then in 1639 the college was renamed Harvard College after a benefactor call John Harvard who was a clergyman.  
   
 Therefore, in a sense, Harvard University was the product of religious activities.`
+
+### `1 - 2 词汇`
+
+\`\`
 
