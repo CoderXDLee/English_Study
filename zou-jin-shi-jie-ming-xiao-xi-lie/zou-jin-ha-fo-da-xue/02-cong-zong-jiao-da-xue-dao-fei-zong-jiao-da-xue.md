@@ -52,21 +52,5 @@
 
 `They argue for more attention to the study of religion.`
 
-`It seems that the war between "reason" and "faith" will go on`
-
-\`\`
-
-\`\`
-
-\`\`
-
-\`\`
-
-\`\`
-
-\`\`
-
-\`\`
-
-\`\`
+`It seems that the war between "reason" and "faith" will go on.`
 
