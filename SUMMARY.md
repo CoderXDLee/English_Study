@@ -28,5 +28,6 @@
 * [走进哈佛大学](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/README.md)
   * [01 - 清教徒和哈佛](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/01-qing-jiao-tu-he-ha-fo.md)
   * [02 - 从宗教大学到非宗教大学](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/02-cong-zong-jiao-da-xue-dao-fei-zong-jiao-da-xue.md)
-  * [03 -哈佛的图书馆](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/03-ha-fo-de-tu-shu-guan.md)
+  * [03 - 哈佛的图书馆](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/03-ha-fo-de-tu-shu-guan.md)
+  * [04 - 哈佛自然历史博物馆](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/04-ha-fo-zi-ran-li-shi-bo-wu-guan.md)
 
