@@ -15,8 +15,6 @@
 
 ## 逻辑英语
 
-* [TED](luo-ji-ying-yu/ted.md)
-
 ## TED <a id="ted-1"></a>
 
 * [明明你很努力了，为什么没有收获](ted-1/ming-ming-ni-hen-nu-li-le-wei-shen-me-mei-you-shou-huo.md)
@@ -30,4 +28,9 @@
   * [02 - 从宗教大学到非宗教大学](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/02-cong-zong-jiao-da-xue-dao-fei-zong-jiao-da-xue.md)
   * [03 - 哈佛的图书馆](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/03-ha-fo-de-tu-shu-guan.md)
   * [04 - 哈佛自然历史博物馆](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/04-ha-fo-zi-ran-li-shi-bo-wu-guan.md)
+  * [05 - 唐纳喷泉](zou-jin-shi-jie-ming-xiao-xi-lie/zou-jin-ha-fo-da-xue/05-tang-na-pen-quan.md)
+
+## BBC环球慢速英语听力
+
+* [01 - 故意不完美01](bbc-huan-qiu-man-su-ying-yu-ting-li/01-gu-yi-bu-wan-mei-01.md)
 
